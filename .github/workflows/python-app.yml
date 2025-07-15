@@ -31,8 +31,8 @@ jobs:
           username: ${{ secrets.EMAIL_USERNAME }}
           password: ${{ secrets.EMAIL_PASSWORD }}
           subject: "GitHub Action Notification"
-          to: recipient@example.com
-          from: sender@example.com
+          to: ganeshvjai398@gmail.com
+          from: ganeshvjai398@gmail.com
           body: "This is a test email from GitHub Actions."
           convert_markdown: true  # Optional: Convert Markdown to HTML
   
