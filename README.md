@@ -1,3 +1,3 @@
 # This is a repo to learn and rungithub actions
-# step1 : Create a sinmple hellop world and deplpy
-# step2 : Create a flask application to run by deployment
+# step1 : Create a simple hellop world and deploy with GHA
+# step2 : Create a flask application to run by deployment with GHA
